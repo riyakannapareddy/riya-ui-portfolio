@@ -1,12 +1,13 @@
 ---
 slug: first-blog-post
-title: First Blog Post
+title: Reading Title (ex. Trunk Test)
 authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
-tags: [hola, docusaurus]
+  name: Reading assigned (ex. CH 12 DMMT)
+  title: Reading Style (ex. Freeform)
+  date: 2024-08-26
+tags: [hola]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+This is an example blog post of a homework assignment. Here is another sentence. Make sure to proofread and spellcheck before submitting!
+
+I need to make the paragraph longer to really show you what a blog post would look like but this feels pretty self explanatory, so I am hoping you can all use your imaginations.
