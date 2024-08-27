@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"wordjournal","permalink":"/blog/tags/wordjournal","count":1},{"label":"FreeForm","permalink":"/blog/tags/freeform","description":"FreeForm tag description","count":1}]}')}}]);

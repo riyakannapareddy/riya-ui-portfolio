@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/example-blog-post",
+  "source": "@site/blog/exapmle-blog-post copy.md",
+  "title": "Example Blog Post",
+  "description": "This is an example of a blog post for a homework assignment with an assigned reading.",
+  "date": "2024-08-26T14:30:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "FreeForm",
+      "permalink": "/blog/tags/freeform",
+      "description": "FreeForm tag description"
+    }
+  ],
+  "readingTime": 0.44,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Example Blog Post",
+    "slug": "/example-blog-post",
+    "date": "2024-08-26T14:30:00.000Z",
+    "tags": [
+      "freeform"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Example Blog Post",
+    "permalink": "/blog/example-blog-post"
+  }
+}

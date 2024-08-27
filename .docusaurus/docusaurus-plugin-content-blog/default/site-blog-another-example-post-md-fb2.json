@@ -1,0 +1,30 @@
+{
+  "permalink": "/blog/another-example--post",
+  "source": "@site/blog/another-example-post.md",
+  "title": "Another Example Post",
+  "description": "This is an example of a blog post for a homework assignment with an assigned reading.",
+  "date": "2024-08-27T14:30:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "wordjournal",
+      "permalink": "/blog/tags/wordjournal"
+    }
+  ],
+  "readingTime": 0.44,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Another Example Post",
+    "slug": "/another-example--post",
+    "date": "2024-08-27T14:30:00.000Z",
+    "tags": [
+      "wordjournal"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Example Blog Post",
+    "permalink": "/blog/example-blog-post"
+  }
+}
