@@ -11,4 +11,7 @@ Welcome to my portfolio! Here, you can find information about my skills, experie
 
 Check out my latest blog posts:
 
+- [Understanding React Hooks](/blog/understanding-react-hooks)
+- [A Guide to JavaScript Promises](/blog/javascript-promises)
+
 <!-- Add more content about yourself -->
