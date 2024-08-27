@@ -5,7 +5,7 @@ authors:
   name: Reading assigned (ex. CH 12 DMMT)
   title: Reading Style (ex. Freeform)
   date: 2024-08-26
-tags: [hola]
+tags: [Don't Make Me Think, Freeform]
 ---
 
 This is an example blog post of a homework assignment. Here is another sentence. Make sure to proofread and spellcheck before submitting!
