@@ -1,10 +1,11 @@
+import React from "react";
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
-
 import Heading from "@theme/Heading";
+
 import styles from "./index.module.css";
 
 function HomepageHeader() {
@@ -17,6 +18,14 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}></div>
+        <h3>Blog Posts</h3>
+        <br></br>
+        <Link
+          className="button button--secondary button--lg"
+          to="/blog/example-blog-post"
+        >
+          Example Blog
+        </Link>
       </div>
     </header>
   );
@@ -31,7 +40,9 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        <div className="container">
+          <HomepageFeatures />
+        </div>
       </main>
     </Layout>
   );
