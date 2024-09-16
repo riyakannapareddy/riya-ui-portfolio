@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"FreeForm","permalink":"/blog/tags/freeform","description":"Share something that captured you from the reading in any format, citing your sources.","count":1}]}')}}]);
