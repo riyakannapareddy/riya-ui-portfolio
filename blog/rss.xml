@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>My UI Portfolio Blog</title>
-        <link>https://riyakannapareddy.github.io/blog</link>
+        <link>https://riyakannapareddy.github.io/riya-ui-portfolio/blog</link>
         <description>My UI Portfolio Blog</description>
         <lastBuildDate>Mon, 26 Aug 2024 14:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Example Blog Post]]></title>
-            <link>https://riyakannapareddy.github.io/blog/example-blog-post</link>
-            <guid>https://riyakannapareddy.github.io/blog/example-blog-post</guid>
+            <link>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/example-blog-post</link>
+            <guid>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/example-blog-post</guid>
             <pubDate>Mon, 26 Aug 2024 14:30:00 GMT</pubDate>
             <description><![CDATA[This is an example of a blog post for a homework assignment with an assigned reading.]]></description>
             <content:encoded><![CDATA[<p>This is an example of a blog post for a homework assignment with an assigned reading.

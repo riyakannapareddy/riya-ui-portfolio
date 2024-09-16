@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://riyakannapareddy.github.io/blog</id>
+    <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog</id>
     <title>My UI Portfolio Blog</title>
     <updated>2024-08-26T14:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://riyakannapareddy.github.io/blog"/>
+    <link rel="alternate" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog"/>
     <subtitle>My UI Portfolio Blog</subtitle>
-    <icon>https://riyakannapareddy.github.io/img/favicon.ico</icon>
+    <icon>https://riyakannapareddy.github.io/riya-ui-portfolio/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Example Blog Post]]></title>
-        <id>https://riyakannapareddy.github.io/blog/example-blog-post</id>
-        <link href="https://riyakannapareddy.github.io/blog/example-blog-post"/>
+        <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/example-blog-post</id>
+        <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/example-blog-post"/>
         <updated>2024-08-26T14:30:00.000Z</updated>
         <summary type="html"><![CDATA[This is an example of a blog post for a homework assignment with an assigned reading.]]></summary>
         <content type="html"><![CDATA[<p>This is an example of a blog post for a homework assignment with an assigned reading.
