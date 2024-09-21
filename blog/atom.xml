@@ -2,19 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog</id>
     <title>My UI Portfolio Blog</title>
-    <updated>2024-08-26T14:30:00.000Z</updated>
+    <updated>2024-09-20T14:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog"/>
     <subtitle>My UI Portfolio Blog</subtitle>
     <icon>https://riyakannapareddy.github.io/riya-ui-portfolio/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Aesthetic Design]]></title>
+        <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/aesthetic-design-post</id>
+        <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/aesthetic-design-post"/>
+        <updated>2024-09-20T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Art Analysis- Rule of Thirds]]></summary>
+        <content type="html"><![CDATA[<p>Art Analysis- Rule of Thirds</p>
+<p>The rule of thirds was a very important section of this reading . The rule of thirds is derived from another concept called "the golden ratio", which means we are drawn to images that have proportions following the golden ratio which for rectangles has the proportions of 1:1.618. The rule of thirds acts is a technique that all starts with superimposing a 3x3 grid onto the piece in question. The corners of the middle square are the "power points" which are the ideal areas to place your power points. This is a personal tangent but I thought for the longest time the rule of thirds meant that when you are adding the same design elements it is best to do it in groups of three for the most balance. My mom taught me this when she would create bouquets and it is a principle I always think about when creating artwork. I am curious if this abstraction of the official rule of thirds rule has any basis because it always felt like something that elevated my designs. Now I will paste some art pieces I have created and see how well they follow the rule of thirds.</p>
+<p><img decoding="async" loading="lazy" alt="Aesthetic Design Analysis" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/aesthetic-design-analysis-bb44c1c1e4346a11fedc786526ae1135.jpg" width="2244" height="2904" class="img_ev3q"></p>]]></content>
+        <category label="FreeForm" term="FreeForm"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Example Blog Post]]></title>
         <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/example-blog-post</id>
         <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/example-blog-post"/>
         <updated>2024-08-26T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This is an example of a blog post for a homework assignment with an assigned reading.]]></summary>
-        <content type="html"><![CDATA[<p>This is an example of a blog post for a homework assignment with an assigned reading.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]></content>
         <category label="FreeForm" term="FreeForm"/>
     </entry>
 </feed>
