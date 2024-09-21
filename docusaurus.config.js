@@ -8,7 +8,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   url: "https://riyakannapareddy.github.io/", // Replace with your actual domain
-  baseUrl: "/",
+  baseUrl: "/riya-ui-portfolio/", // Replace with your actual base path
 
   organizationName: "riyakannapareddy", // Replace with your GitHub org/user name
   projectName: "riya-ui-portfolio", // Replace with your repo/project name
