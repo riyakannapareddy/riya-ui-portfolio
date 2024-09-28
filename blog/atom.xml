@@ -8,6 +8,20 @@
     <subtitle>My UI Portfolio Blog</subtitle>
     <icon>https://riyakannapareddy.github.io/riya-ui-portfolio/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Color 1 Podcast]]></title>
+        <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/color-1-podcast</id>
+        <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/color-1-podcast"/>
+        <updated>2024-09-27T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Podcast -  Color]]></summary>
+        <content type="html"><![CDATA[<p>Podcast -  Color</p>
+<p>In this podcast I ask my friend Fatima for the insight she can deliver on the world of
+color through her expertise as an artist. We explore what different colors mean to us,
+what components that make up a color are most important, and discuss how we use color
+in our artistic process.</p>
+<audio controls=""><source src="../docs/assets/color1-podcast.m4a" type="audio/mp4"><p>Your browser does not support the audio element.</p></audio>]]></content>
+        <category label="Podcast" term="Podcast"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Color Harmony Excercise]]></title>
         <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/color-harmony-excercise</id>
         <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/color-harmony-excercise"/>
