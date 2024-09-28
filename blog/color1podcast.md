@@ -16,7 +16,7 @@ in our artistic process.
 
 
   <audio controls>
-    <source src="../docs/assets/color1-podcast.m4a" type="audio/mp4" />
+    <source src="../static/color1-podcast.m4a" type="audio/m4a" />
     Your browser does not support the audio element.
   </audio>
 
