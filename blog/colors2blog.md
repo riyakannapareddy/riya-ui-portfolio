@@ -5,7 +5,6 @@ date: 2024-09-27T14:30:00Z
 tags: [freeform]
 ---
 
-# Example Blog Post
 
 Psychology of Color Through Television
 

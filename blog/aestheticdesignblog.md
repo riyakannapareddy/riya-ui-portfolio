@@ -5,7 +5,6 @@ date: 2024-09-20T14:30:00Z
 tags: [freeform]
 ---
 
-# Example Blog Post
 
 Art Analysis- Rule of Thirds
 
