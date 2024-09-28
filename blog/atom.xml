@@ -8,6 +8,51 @@
     <subtitle>My UI Portfolio Blog</subtitle>
     <icon>https://riyakannapareddy.github.io/riya-ui-portfolio/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Color Harmony Excercise]]></title>
+        <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/color-harmony-excercise</id>
+        <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/color-harmony-excercise"/>
+        <updated>2024-09-27T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Color Harmony UI Excercise]]></summary>
+        <content type="html"><![CDATA[<p>Color Harmony UI Excercise</p>
+<p>Today I will be embarking on a journey exploring different color harmonies impact on
+an interface. I thought what better interface to experiment with than the color puzzle game
+"I Love Hue"! I will first analyze and recreate the original palette of this interface and then spin up three different iterations of this interface with different harmonic color
+combinations.</p>
+<p>Original Interface
+<img decoding="async" loading="lazy" alt="ilovehue original interface" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/ilovehue-og-fcd648927d5d55d5553ea8e9130b3ea0.png" width="850" height="1810" class="img_ev3q"></p>
+<p>Recreation of Interface
+<img decoding="async" loading="lazy" alt="ilovehue recreated interface" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/ilovehue-recreation-2a89106366046b4d15afcd7479748280.png" width="850" height="1810" class="img_ev3q"></p>
+<p>The original color scheme of the I love hue interface fits into the triad harmony, these
+being the primary colors of yellow, red, and blue. This color scheme exemplifies simplicity and harmony. I think this was a very intelligent choice from the designers as primary colors
+are the foundation of the game which tests users eye for colors and how each hue fits together.  As this is a relaxing low stakes puzzle game I think these muted colors work very well to not excite the mind too much and allow the player to relax and focus on the colors of the puzzle to solve.</p>
+<p><img decoding="async" loading="lazy" alt="ilovehue achromatic interface" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/ilovehue-achromatic-bea6166fe4aabf9fa9885aeb4f569d56.png" width="850" height="1810" class="img_ev3q">
+The first color scheme I tried my hand at was an achromatic color scheme using
+black and white and all the shades in between those colors. This was my favorite new
+iteration by far. It stays true to the values of simplicity and ease on the mind.This sleek,
+simple palette allows for the colors of the puzzle to truly shine and be the main focus of
+the game. This also thematically fits well into the game similar to their primary triad
+harmony.</p>
+<p><img decoding="async" loading="lazy" alt="ilovehue anagolous interface" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/ilovehue-anagolous-f15b8e261cadfe4c83a177c309d62096.png" width="850" height="1810" class="img_ev3q">
+The next color harmony I tried was an analogous color palette. I used blue, blue green and
+blue violet. I choose to use a blue analogous palette as blue evokes feeling of peace and
+relaxation which fits the purpose of the game. I think this palette is very soothing to the
+eye and mind, however it has more potential to clash based on the colors of the puzzle. I think the fact certain color puzzles will stand out and pop far more than others is a detriment to this design.</p>
+<p><img decoding="async" loading="lazy" alt="ilovehue square interface" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/ilovehue-square-6d5091605dfc8310d62b652dbe5d2664.png" width="850" height="1836" class="img_ev3q">
+The last color harmony I tried out is a square color harmony. I used red, green, purple
+and yellow. I wasn't the biggest fan of this palette as it gave it a more childish, chaotic
+look compared to the other choices. I think this would also clash with the palettes of
+the puzzles potentially. I think this gives the energy of a more fast paced, energetic game
+rather than the slow, meticilous process i love hue creates.</p>
+<p>Overall I think the original color scheme was the most effective for this game. It
+was very purposeful and truly lives up to the name of the game by incorporating
+all the primary colors. The point of the game is to get lost in the world of color
+and relax and the triad harmony is a wonderful vessel to present this. The achromatic
+palette is a close second due to the reasons I love the original palette so much.
+It doesn't distract from the puzzle which is the central focus and creates a feeling
+of peace and calmness.</p>]]></content>
+        <category label="FreeForm" term="FreeForm"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Colors 2]]></title>
         <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/colors-2-blog</id>
         <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/colors-2-blog"/>
