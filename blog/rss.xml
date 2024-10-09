@@ -4,10 +4,20 @@
         <title>My UI Portfolio Blog</title>
         <link>https://riyakannapareddy.github.io/riya-ui-portfolio/blog</link>
         <description>My UI Portfolio Blog</description>
-        <lastBuildDate>Fri, 27 Sep 2024 14:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 14:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Designs Systems]]></title>
+            <link>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/design-systems</link>
+            <guid>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/design-systems</guid>
+            <pubDate>Fri, 04 Oct 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[Standardization]]></description>
+            <content:encoded><![CDATA[<p>Standardization</p>
+<p>Standardization is at the crux of this weeks reading. Just as users of interfaces don't want to overthink things, so do designers working together on a team to create a product! This is why standardization is key which manifests in tools like style guides and content strategy. Content strategy focuses on edge cases which style guides may not cover. This includes features like which capitalization structure to use, a set standard of vocabulary for actions with many possible word choices, and localization for different languages and cultural conventions. Style guides are similar to documentation for software. They are an extensive packet of guidelines and components used in an interface. Everyone has that experience watching a phenomenal presentation but the legitimacy is brought down as it is clear different people worked on a different sections of the slide deck. Style guides circumvent this issue by working to achieve visual consistency and representative branding.</p>]]></content:encoded>
+            <category>WordJournal</category>
+        </item>
         <item>
             <title><![CDATA[Color 1 Podcast]]></title>
             <link>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/color-1-podcast</link>
@@ -19,7 +29,7 @@
 color through her expertise as an artist. We explore what different colors mean to us,
 what components that make up a color are most important, and discuss how we use color
 in our artistic process.</p>
-<audio controls=""><source src="../docs/assets/color1-podcast.m4a" type="audio/m4a"><p>Your browser does not support the audio element.</p></audio>]]></content:encoded>
+<audio controls=""><source src="../static/color1-podcast.m4a" type="audio/m4a"><p>Your browser does not support the audio element.</p></audio>]]></content:encoded>
             <category>Podcast</category>
         </item>
         <item>
@@ -76,9 +86,9 @@ of peace and calmness.</p>]]></content:encoded>
             <link>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/colors-2-blog</link>
             <guid>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/colors-2-blog</guid>
             <pubDate>Fri, 27 Sep 2024 14:30:00 GMT</pubDate>
-            <description><![CDATA[Psychology of Color Through Television]]></description>
-            <content:encoded><![CDATA[<p>Psychology of Color Through Television</p>
-<p>These sections dive into the psychology of color from the feelings each hue in the rainbow invoke to the lucrative market of understanding color trends for different customer segments. One of the most beautiful ways the psychology of color manifests is through film and television. This also is a very intuitive way to understand color theory and the impact of color as our brain subconsciously reacts to the creators choices. One of the best ways in our generation this was demonstrated was in the HBO series Euphoria. Each character has very deliberate colors that make up their wardrobe and this even changes as characters develop and transition. Maddie is a strong, independent, hard to read and confident character which is perfectly exemplified through her palette of rich purples. As purple is the color of royalty is also reflects her desire for upward social mobility. Cassie is often adorned in baby blues which mirror her highly sensitive, emotional personality. It also reflects her character traits of being a people pleaser and impulsive and to be on the nose the sadness and grief that surrounds her character. Kat's whole character arc is about developing confidence in herself and her body as a plus size women. This is beautifully demonstrated as she starts wearing the bold, dominating, and eye catching colors of red and black.</p>]]></content:encoded>
+            <description><![CDATA[Standardization]]></description>
+            <content:encoded><![CDATA[<p>Standardization</p>
+<p>Standardization is at the crux of this weeks reading. Just as users of interfaces don't want to overthink things, so do designers working together on a team to create a product! This is why standardization is key which manifests in tools like style guides and content strategy. Content strategy focuses on edge cases which style guides may not cover. This includes features like which capitalization structure to use, a set standard of vocabulary for actions with many possible word choices, and localization for different languages and cultural conventions. Style guides are similar to documentation for software. They are an extensive packet of guidelines and components used in an interface. Everyone has that experience watching a phenomenal presentation but the legitimacy is brought down as it is clear different people worked on a different sections of the slide deck. Style guides circumvent this issue by working to achieve visual consistency and representative branding.</p>]]></content:encoded>
             <category>FreeForm</category>
         </item>
         <item>
