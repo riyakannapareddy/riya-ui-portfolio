@@ -4,10 +4,37 @@
         <title>My UI Portfolio Blog</title>
         <link>https://riyakannapareddy.github.io/riya-ui-portfolio/blog</link>
         <description>My UI Portfolio Blog</description>
-        <lastBuildDate>Fri, 04 Oct 2024 14:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Oct 2024 14:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Finding Inspiration]]></title>
+            <link>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/finding-inspiration-excercise</link>
+            <guid>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/finding-inspiration-excercise</guid>
+            <pubDate>Wed, 09 Oct 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[Finding Inspiration Through Art]]></description>
+            <content:encoded><![CDATA[<p>##Finding Inspiration Through Art</p>
+<p>##Passion Flowers and Hummingbirds by Martin Johnson Heade
+<img decoding="async" loading="lazy" alt="passionflowers and hummingbirds image" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/passionflowers-hummingbirds-f1c8a7621c3fd864214c947d7f0f6fa5.jpeg" width="4032" height="3024" class="img_ev3q"></p>
+<p>A couple of yearsa ago I visited the Boston Museum of Fine Arts and found myself enamored by
+several pieces. After some time I still find the piece “Passion Flowers and Hummingbirds” by the American artist Martin Johnson Heade to be the most compelling. The creation of this painting spanned from 1870-1883. One of the most fascinating parts regarding the history of this piece is how Heade was inspired by the revolutionary knowledge of Charles Darwin’s studies on evolution. He already had a fascination with hummingbirds since childhood and this was further exacerbated by Darwins example of hummingbird beak adaption for the purpose of fertilizing hummingbirds. During his trip to Central America he painted the interrelationship between flora and fauna he saw in Panama while also integrating spiritual elements of Christianity through nuances within the form of his paintings.</p>
+<p>##Art Analysis</p>
+<p>##Saturation
+<a href="https://drawpaintacademy.com/color-saturation/" target="_blank" rel="noopener noreferrer">https://drawpaintacademy.com/color-saturation/</a></p>
+<p>Heade masterfully uses saturation guide the viewers eye to the most important parts of the painting and set the mood. The passionflower are the intended focus of this painting and Heade drives this point home using a vibrant, highly saturated shade of red. The color context is important with this choice as the passionflowers are the most saturated hue present in this painting. If the vines and leaves adorning the flowers were the same level of saturation the pop the passionflowers give would get washed out and thus have less impact Atmospheric perspective is another component of this painting which means as an object recedes, it mirrors its surrounding appearance more. One component of this means that as an object is more in the background it tends to be less saturated and more dull which is clearly seen in the brush and fog in this painting. This is also a component of depth which will be discussed in the next section!</p>
+<p>##Depth
+<a href="https://www.bbcmaestro.com/blog/creating-depth-in-art" target="_blank" rel="noopener noreferrer">https://www.bbcmaestro.com/blog/creating-depth-in-art</a></p>
+<p>Creating depth in an artwork is achieved through choices that leverage the facets of color and how the human eye works. Despite this being a flat canvas the painting looks to be a snapshot of a bundle of flowers lost in an imposing, foggy jungle that goes as far as the eye can see. As previously mentioned atmospheric depth is one way to do this as objects in the background will be far more dull and desaturated. Another way this illusion of depth is refined is through detail and focus. This is best seen through how Heade painted the jungle brush. The brush that is seen at the bottom of the canvas has clear individual leaves where light hits the tops of them and underneath eacb leaf is shrouded in shadow. Going to the brush slightly above that, the shadows become more blurry and muted and the colors blend together more creating a lower resolution look which corresponds to being further away. These are all further driven home through value which will be discussed in the final section of contrast!</p>
+<p>##Contrast
+<a href="https://www.studiobinder.com/blog/what-is-contrast-in-art-definition/" target="_blank" rel="noopener noreferrer">https://www.studiobinder.com/blog/what-is-contrast-in-art-definition/</a></p>
+<p>The final component that brings together this painting is contrast! Contrast is a fascinating feature of art due to manifesting in several different ways. The primary way is through complementary colors which are opposite colors on the color wheel. This is present in the painting through the vibrant red flowers and the muted green foliage. The next way is the contrast between dark and light or value. The passionflower closest to the hummingbirds has the brightest red colors even among the other flowers which indicates it is the first thing Heade wanted the viewer to look at. Not only does he use saturation to differentiate different elements in the painting, but the same objects as well. There is an also contrast present between the bright fog and the dark foliage. Lastly the size of the elements create contrast which is seen through the large, highly detailed flowers in the foreground and the much smaller foliage as the painting gets further away. These all work together to create depth and visual interest.</p>
+<p>#You should take a photo or scan of your sketch and add it to your blog post. Then, describe your UI. What kind of device is it intended for (web, mobile, treadmill, etc.)? What is the page's topic (calendar app, news site, Starburst-themed casino machine, etc.)? What about the inspiration piece are you replicating in this sketch?
+Finally, conclude your post with something insightful you learned through this process.
+Go get inspired!</p>
+<p>##Inspiration Sketch</p>]]></content:encoded>
+            <category>FreeForm</category>
+        </item>
         <item>
             <title><![CDATA[Designs Systems]]></title>
             <link>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/design-systems</link>
@@ -86,9 +113,9 @@ of peace and calmness.</p>]]></content:encoded>
             <link>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/colors-2-blog</link>
             <guid>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/colors-2-blog</guid>
             <pubDate>Fri, 27 Sep 2024 14:30:00 GMT</pubDate>
-            <description><![CDATA[Standardization]]></description>
-            <content:encoded><![CDATA[<p>Standardization</p>
-<p>Standardization is at the crux of this weeks reading. Just as users of interfaces don't want to overthink things, so do designers working together on a team to create a product! This is why standardization is key which manifests in tools like style guides and content strategy. Content strategy focuses on edge cases which style guides may not cover. This includes features like which capitalization structure to use, a set standard of vocabulary for actions with many possible word choices, and localization for different languages and cultural conventions. Style guides are similar to documentation for software. They are an extensive packet of guidelines and components used in an interface. Everyone has that experience watching a phenomenal presentation but the legitimacy is brought down as it is clear different people worked on a different sections of the slide deck. Style guides circumvent this issue by working to achieve visual consistency and representative branding.</p>]]></content:encoded>
+            <description><![CDATA[Psychology of Color Through Television]]></description>
+            <content:encoded><![CDATA[<p>Psychology of Color Through Television</p>
+<p>These sections dive into the psychology of color from the feelings each hue in the rainbow invoke to the lucrative market of understanding color trends for different customer segments. One of the most beautiful ways the psychology of color manifests is through film and television. This also is a very intuitive way to understand color theory and the impact of color as our brain subconsciously reacts to the creators choices. One of the best ways in our generation this was demonstrated was in the HBO series Euphoria. Each character has very deliberate colors that make up their wardrobe and this even changes as characters develop and transition. Maddie is a strong, independent, hard to read and confident character which is perfectly exemplified through her palette of rich purples. As purple is the color of royalty is also reflects her desire for upward social mobility. Cassie is often adorned in baby blues which mirror her highly sensitive, emotional personality. It also reflects her character traits of being a people pleaser and impulsive and to be on the nose the sadness and grief that surrounds her character. Kat's whole character arc is about developing confidence in herself and her body as a plus size women. This is beautifully demonstrated as she starts wearing the bold, dominating, and eye catching colors of red and black.</p>]]></content:encoded>
             <category>FreeForm</category>
         </item>
         <item>
