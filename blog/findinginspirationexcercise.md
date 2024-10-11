@@ -8,11 +8,12 @@ tags: [freeform]
 
 ##Finding Inspiration Through Art
 
-A couple of yearsa ago I visited the Boston Museum of Fine Arts and found myself enamored by 
-several pieces. After some time I still find the piece “Passion Flowers and Hummingbirds” by the American artist Martin Johnson Heade to be the most compelling. The creation of this painting spanned from 1870-1883. One of the most fascinating parts regarding the history of this piece is how Heade was inspired by the revolutionary knowledge of Charles Darwin’s studies on evolution. He already had a fascination with hummingbirds since childhood and this was further exacerbated by Darwins example of hummingbird beak adaption for the purpose of fertilizing hummingbirds. During his trip to Central America he painted the interrelationship between flora and fauna he saw in Panama while also integrating spiritual elements of Christianity through nuances within the form of his paintings. 
 
 ##Passion Flowers and Hummingbirds by Martin Johnson Heade
 ![passionflowers and hummingbirds image](../docs/assets/passionflowers-hummingbirds.jpeg)
+
+A couple of yearsa ago I visited the Boston Museum of Fine Arts and found myself enamored by 
+several pieces. After some time I still find the piece “Passion Flowers and Hummingbirds” by the American artist Martin Johnson Heade to be the most compelling. The creation of this painting spanned from 1870-1883. One of the most fascinating parts regarding the history of this piece is how Heade was inspired by the revolutionary knowledge of Charles Darwin’s studies on evolution. He already had a fascination with hummingbirds since childhood and this was further exacerbated by Darwins example of hummingbird beak adaption for the purpose of fertilizing hummingbirds. During his trip to Central America he painted the interrelationship between flora and fauna he saw in Panama while also integrating spiritual elements of Christianity through nuances within the form of his paintings. 
 
 ##Art Analysis
 
@@ -35,3 +36,5 @@ The final component that brings together this painting is contrast! Contrast is 
 #You should take a photo or scan of your sketch and add it to your blog post. Then, describe your UI. What kind of device is it intended for (web, mobile, treadmill, etc.)? What is the page's topic (calendar app, news site, Starburst-themed casino machine, etc.)? What about the inspiration piece are you replicating in this sketch?
 Finally, conclude your post with something insightful you learned through this process.
 Go get inspired!
+
+##Inspiration Sketch
