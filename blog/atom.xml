@@ -2,17 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog</id>
     <title>My UI Portfolio Blog</title>
-    <updated>2024-10-12T04:26:52.159Z</updated>
+    <updated>2024-10-11T14:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog"/>
     <subtitle>My UI Portfolio Blog</subtitle>
     <icon>https://riyakannapareddy.github.io/riya-ui-portfolio/img/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[example-blog-post]]></title>
-        <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/example-blog-post</id>
-        <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/example-blog-post"/>
-        <updated>2024-10-12T04:26:52.159Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Designs Systems]]></title>
         <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/design-systems</id>
@@ -61,25 +55,25 @@ throughout time.</p>]]></content>
         <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/finding-inspiration-excercise"/>
         <updated>2024-10-09T14:30:00.000Z</updated>
         <summary type="html"><![CDATA[Finding Inspiration Through Art]]></summary>
-        <content type="html"><![CDATA[<p>##Finding Inspiration Through Art</p>
-<p>##Passion Flowers and Hummingbirds by Martin Johnson Heade
+        <content type="html"><![CDATA[<p>Finding Inspiration Through Art</p>
+<p>Passion Flowers and Hummingbirds by Martin Johnson Heade
 <img decoding="async" loading="lazy" alt="passionflowers and hummingbirds image" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/passionflowers-hummingbirds-f1c8a7621c3fd864214c947d7f0f6fa5.jpeg" width="4032" height="3024" class="img_ev3q"></p>
 <p>A couple of yearsa ago I visited the Boston Museum of Fine Arts and found myself enamored by
 several pieces. After some time I still find the piece “Passion Flowers and Hummingbirds” by the American artist Martin Johnson Heade to be the most compelling. The creation of this painting spanned from 1870-1883. One of the most fascinating parts regarding the history of this piece is how Heade was inspired by the revolutionary knowledge of Charles Darwin’s studies on evolution. He already had a fascination with hummingbirds since childhood and this was further exacerbated by Darwins example of hummingbird beak adaption for the purpose of fertilizing hummingbirds. During his trip to Central America he painted the interrelationship between flora and fauna he saw in Panama while also integrating spiritual elements of Christianity through nuances within the form of his paintings.</p>
-<p>##Art Analysis</p>
-<p>##Saturation
+<p>Art Analysis</p>
+<p>Saturation
 <a href="https://drawpaintacademy.com/color-saturation/" target="_blank" rel="noopener noreferrer">https://drawpaintacademy.com/color-saturation/</a></p>
 <p>Heade masterfully uses saturation guide the viewers eye to the most important parts of the painting and set the mood. The passionflower are the intended focus of this painting and Heade drives this point home using a vibrant, highly saturated shade of red. The color context is important with this choice as the passionflowers are the most saturated hue present in this painting. If the vines and leaves adorning the flowers were the same level of saturation the pop the passionflowers give would get washed out and thus have less impact Atmospheric perspective is another component of this painting which means as an object recedes, it mirrors its surrounding appearance more. One component of this means that as an object is more in the background it tends to be less saturated and more dull which is clearly seen in the brush and fog in this painting. This is also a component of depth which will be discussed in the next section!</p>
-<p>##Depth
+<p>Depth
 <a href="https://www.bbcmaestro.com/blog/creating-depth-in-art" target="_blank" rel="noopener noreferrer">https://www.bbcmaestro.com/blog/creating-depth-in-art</a></p>
 <p>Creating depth in an artwork is achieved through choices that leverage the facets of color and how the human eye works. Despite this being a flat canvas the painting looks to be a snapshot of a bundle of flowers lost in an imposing, foggy jungle that goes as far as the eye can see. As previously mentioned atmospheric depth is one way to do this as objects in the background will be far more dull and desaturated. Another way this illusion of depth is refined is through detail and focus. This is best seen through how Heade painted the jungle brush. The brush that is seen at the bottom of the canvas has clear individual leaves where light hits the tops of them and underneath eacb leaf is shrouded in shadow. Going to the brush slightly above that, the shadows become more blurry and muted and the colors blend together more creating a lower resolution look which corresponds to being further away. These are all further driven home through value which will be discussed in the final section of contrast!</p>
-<p>##Contrast
+<p>Contrast
 <a href="https://www.studiobinder.com/blog/what-is-contrast-in-art-definition/" target="_blank" rel="noopener noreferrer">https://www.studiobinder.com/blog/what-is-contrast-in-art-definition/</a></p>
 <p>The final component that brings together this painting is contrast! Contrast is a fascinating feature of art due to manifesting in several different ways. The primary way is through complementary colors which are opposite colors on the color wheel. This is present in the painting through the vibrant red flowers and the muted green foliage. The next way is the contrast between dark and light or value. The passionflower closest to the hummingbirds has the brightest red colors even among the other flowers which indicates it is the first thing Heade wanted the viewer to look at. Not only does he use saturation to differentiate different elements in the painting, but the same objects as well. There is an also contrast present between the bright fog and the dark foliage. Lastly the size of the elements create contrast which is seen through the large, highly detailed flowers in the foreground and the much smaller foliage as the painting gets further away. These all work together to create depth and visual interest.</p>
 <p>#You should take a photo or scan of your sketch and add it to your blog post. Then, describe your UI. What kind of device is it intended for (web, mobile, treadmill, etc.)? What is the page's topic (calendar app, news site, Starburst-themed casino machine, etc.)? What about the inspiration piece are you replicating in this sketch?
 Finally, conclude your post with something insightful you learned through this process.
 Go get inspired!</p>
-<p>##Inspiration Sketch</p>
+<p>Inspiration Sketch</p>
 <p>The UI I sketched up is intended to be used on the web.</p>]]></content>
         <category label="FreeForm" term="FreeForm"/>
     </entry>
@@ -208,5 +202,11 @@ of peace and calmness.</p>]]></content>
 <p>The rule of thirds was a very important section of this reading . The rule of thirds is derived from another concept called "the golden ratio", which means we are drawn to images that have proportions following the golden ratio which for rectangles has the proportions of 1:1.618. The rule of thirds acts is a technique that all starts with superimposing a 3x3 grid onto the piece in question. The corners of the middle square are the "power points" which are the ideal areas to place your power points. This is a personal tangent but I thought for the longest time the rule of thirds meant that when you are adding the same design elements it is best to do it in groups of three for the most balance. My mom taught me this when she would create bouquets and it is a principle I always think about when creating artwork. I am curious if this abstraction of the official rule of thirds rule has any basis because it always felt like something that elevated my designs. Now I will paste some art pieces I have created and see how well they follow the rule of thirds.</p>
 <p><img decoding="async" loading="lazy" alt="Aesthetic Design Analysis" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/aesthetic-design-analysis-bb44c1c1e4346a11fedc786526ae1135.jpg" width="2244" height="2904" class="img_ev3q"></p>]]></content>
         <category label="FreeForm" term="FreeForm"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[example-blog-post]]></title>
+        <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/example-blog-post</id>
+        <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/example-blog-post"/>
+        <updated>2024-08-02T15:54:11.000Z</updated>
     </entry>
 </feed>
