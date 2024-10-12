@@ -38,3 +38,7 @@ Finally, conclude your post with something insightful you learned through this p
 Go get inspired!
 
 ##Inspiration Sketch
+
+
+
+The UI I sketched up is intended to be used on the web. 
