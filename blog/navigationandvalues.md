@@ -7,7 +7,7 @@ tags: [freeform]
 
 To further identify my own  values I was inspired and decided to loosly 
 follow the excercise from Brené browns
-book <em> Dare to Lead </em>.
+book <i> Dare to Lead </i>.
 
 The first step of this excercise is to identify the values 
 that we initially connect with.This is indicated by all the values which have 
