@@ -1,9 +1,9 @@
 ---
-title: Designs Systems
-slug: /design-systems
+title: Navigating Values
+slug: /navigating-values
 date: 2024-10-11T14:30:00Z
 tags: [freeform]
----Brene brown list of 100 values
+---
 
 To further identify my own  values I was inspired and decided to loosly 
 follow the excercise from Brené browns
