@@ -2,24 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog</id>
     <title>My UI Portfolio Blog</title>
-    <updated>2024-10-11T14:30:00.000Z</updated>
+    <updated>2024-10-15T14:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog"/>
     <subtitle>My UI Portfolio Blog</subtitle>
     <icon>https://riyakannapareddy.github.io/riya-ui-portfolio/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Designs Systems]]></title>
-        <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/design-systems</id>
-        <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/design-systems"/>
+        <title type="html"><![CDATA[Design System UI]]></title>
+        <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/design-system-ui</id>
+        <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/design-system-ui"/>
+        <updated>2024-10-15T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[-->]]></summary>
+        <category label="FreeForm" term="FreeForm"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Values]]></title>
+        <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/navigating-values</id>
+        <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/navigating-values"/>
         <updated>2024-10-11T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Brene brown list of 100 values]]></summary>
-        <content type="html"><![CDATA[<hr>
-<p>title: Designs Systems
-slug: /design-systems
-date: 2024-10-11T14:30:00Z
-tags: [freeform]
----Brene brown list of 100 values</p>
-<p>To further identify my own  values I was inspired and decided to loosly
+        <summary type="html"><![CDATA[To further identify my own  values I was inspired and decided to loosly]]></summary>
+        <content type="html"><![CDATA[<p>To further identify my own  values I was inspired and decided to loosly
 follow the excercise from Brené browns
 book <i> Dare to Lead </i>.</p>
 <p>The first step of this excercise is to identify the values
@@ -83,40 +85,8 @@ Go get inspired!</p>
         <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/design-systems"/>
         <updated>2024-10-04T14:30:00.000Z</updated>
         <summary type="html"><![CDATA[Standardization]]></summary>
-        <content type="html"><![CDATA[<hr>
-<p>title: Designs Systems
-slug: /design-systems
-date: 2024-10-11T14:30:00Z
-tags: [freeform]
----Brene brown list of 100 values</p>
-<p>To further identify my own  values I was inspired and decided to loosly
-follow the excercise from Brené browns
-book <i> Dare to Lead </i>.</p>
-<p>The first step of this excercise is to identify the values
-that we initially connect with.This is indicated by all the values which have
-been highlighted in the image. The values highlighted purple indicate the values
-under the main value Achievment, the values highlighted green fall under
-Groth, and the blue ones embody Belonging.</p>
-<p><img decoding="async" loading="lazy" alt="1st step valuess" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/1st-step-values-217d57d32890a4efe1854a91ed03e417.jpg" width="2244" height="2904" class="img_ev3q"></p>
-<p>After this I drilled down even further on what two
-overarching values encapsulate the initial group
-of values I selected.I ended up with:</p>
-<p>"Authenticity": Achievement, Ambition, Initiative,
-Personal Fulfillment, Belonging, Balance, Ethics
-,Creativity, Curiosity, Humility, Independence,
-Perseverance,Uniqueness</p>
-<p>"Legacy"
-Legacy,Pride,Recognition,Self-Expression, Loyalty, Learning, Inclusion,
-Humor,Fun,Friendship,Fairness,Diversity,Dignity,Connection,Competence
-,Making a Difference</p>
-<p>Finally, I created two sentences to concisely communicate the
-scope of these core two values and all the context from
-other values to personalize it to my perspective.</p>
-<p>Authenticity expresses the way I want to lead my decisions
-and creative process in a manner that fully maximizes my abilities.</p>
-<p>I value legacy in the sense  of the impact of my personhood on
-those around me and in the value I am able to create or colloborate on
-throughout time.</p>]]></content>
+        <content type="html"><![CDATA[<p>Standardization</p>
+<p>Standardization is at the crux of this weeks reading. Just as users of interfaces don't want to overthink things, so do designers working together on a team to create a product! This is why standardization is key which manifests in tools like style guides and content strategy. Content strategy focuses on edge cases which style guides may not cover. This includes features like which capitalization structure to use, a set standard of vocabulary for actions with many possible word choices, and localization for different languages and cultural conventions. Style guides are similar to documentation for software. They are an extensive packet of guidelines and components used in an interface. Everyone has that experience watching a phenomenal presentation but the legitimacy is brought down as it is clear different people worked on a different sections of the slide deck. Style guides circumvent this issue by working to achieve visual consistency and representative branding.</p>]]></content>
         <category label="WordJournal" term="WordJournal"/>
     </entry>
     <entry>
