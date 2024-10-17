@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog</id>
     <title>My UI Portfolio Blog</title>
-    <updated>2024-10-15T14:30:00.000Z</updated>
+    <updated>2024-10-16T14:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog"/>
     <subtitle>My UI Portfolio Blog</subtitle>
     <icon>https://riyakannapareddy.github.io/riya-ui-portfolio/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Feedback]]></title>
+        <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/feedback-blog</id>
+        <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/feedback-blog"/>
+        <updated>2024-10-16T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Guidance]]></summary>
+        <content type="html"><![CDATA[<p>Guidance</p>
+<p>I think the word "Guidance" is an impactful way to marry two very important components
+within the framwork of feedback outlined in Kirkwoods article, "How to give designers feedback they can actually use". These components would be "reinforcing" and "redirecting" feedback. Guidance encompasses these two terms far better than it would encompass "positive" and "negative" feedback Positive and negative are very black and white terms with no room for growth and interpretation that
+guidance lives by. Through feedback following the ideals of guidance one can easily integrate
+other best practices described in the article. For example, Kirkwood mentions that when giving redirecting feedback the ideal situation is a back and forth of clarifying and open ended questions where the team guides eachother to a solution rather than being told what exactly to do. This also
+ties into one of the most vital parts of productive feedback which is fostering an environment of
+ownership. Through guidance through both redirection and reinforcment the designer feels more agency
+over their work as they were a central part of the feedback loop in this situations. When someone
+is being talked at, it is easy to feel like a dispensible cog in the machine. This is so important for creative jobs like design as providing ones unique talents, experiences and perspectives is tantamount to the work experience, rather than just a set of hands who knows how to use a certain software.</p>
+<p><a href="https://www.invisionapp.com/inside-design/give-designers-feedback/" target="_blank" rel="noopener noreferrer">https://www.invisionapp.com/inside-design/give-designers-feedback/</a></p>]]></content>
+        <category label="WordJournal" term="WordJournal"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Design System UI]]></title>
         <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/design-system-ui</id>
