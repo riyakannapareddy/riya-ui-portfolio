@@ -26,6 +26,24 @@ is being talked at, it is easy to feel like a dispensible cog in the machine. Th
         <category label="WordJournal" term="WordJournal"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Portfolio Design Sketch]]></title>
+        <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/portfolio-design-sketch</id>
+        <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/portfolio-design-sketch"/>
+        <updated>2024-10-16T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.uxfol.io/ux-portfolio-examples/]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://blog.uxfol.io/ux-portfolio-examples/" target="_blank" rel="noopener noreferrer">https://blog.uxfol.io/ux-portfolio-examples/</a></p>
+<p>Today I got inspired by Klaudia Simon and Ákos Izsák's article "23 Succesful
+UX Portfolio Examples and a Guide for Creating Yours.</p>
+<p><img decoding="async" loading="lazy" alt="riya portfolio sketch" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/riya-ui-portfolio-sketch-85e0484bc580b37b4e4b103ec315f885.png" width="500" height="329" class="img_ev3q"></p>
+<p>This article gave a wealth of valuable information from concrete steps to follow to create a succesful UX portfolio to learning by example by presenting cutting edge examples. I decided to try out this advice and
+ideas myself through a quick figma mockup of a potential frontpage of my
+UI/UX portfolio. I was very inspired by the minimalistic, brutalist UI styles that masterfully use whitespace and sans serif text for a sleek,
+modern approach. I personally throught the examples could use more contrast so I decided use my favorite shade of saturated purple to embue my personality and add a high contrast pop against an off white background. I also made the background an off white yellow hue to better complement the purple accents. I have always been a fan of retro, typewriter like fonts
+with a modern approach so I used fonts that best embody that! Another personal spin I implemented was the organized chaos of different sized image displays that lack order but fit toegther in the expanse of white space. I made sure to follow the advice of the article of using the
+same style mockups through royalty free ui images and also making sure they are front and center on my home page. I also added the key navigation mentioned like home, resume, and contacts.</p>]]></content>
+        <category label="SketchInspo" term="SketchInspo"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Design System UI]]></title>
         <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/design-system-ui</id>
         <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/design-system-ui"/>
