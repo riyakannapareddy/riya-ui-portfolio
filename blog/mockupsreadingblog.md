@@ -2,7 +2,7 @@
 title: Mockups Reading
 slug: /mockups-reading-blog
 date: 2024-10-18T14:30:00Z
-tags: [approximateanalogy]]
+tags: [approximateanalogy]
 ---
 
 
