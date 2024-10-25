@@ -38,6 +38,11 @@ Go get inspired!
 
 Inspiration Sketch
 
+##Inspiration Sketch
+![Inspiration Sketch](../docs/assets/finding-inspo-sketch.jpeg)
 
-
-The UI I sketched up is intended to be used on the web. 
+The UI I sketched up is intended to be used on the web as some sort of application dealing with a users
+music. I used the same color palettes as the art piece I chose and due to their complementary nature 
+I found it leaving a very crisp, refined but still creative look. To capture the depth exhihbited in the
+work I chose I used a carosuel displaying each album where a user would swipe through and see the item of
+focus come to the foreground and the others fade into the foreground. 
