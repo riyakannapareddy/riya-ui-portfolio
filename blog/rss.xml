@@ -4,10 +4,84 @@
         <title>My UI Portfolio Blog</title>
         <link>https://riyakannapareddy.github.io/riya-ui-portfolio/blog</link>
         <description>My UI Portfolio Blog</description>
-        <lastBuildDate>Fri, 18 Oct 2024 14:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 14:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[User Testing Blog]]></title>
+            <link>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/user-testing</link>
+            <guid>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/user-testing</guid>
+            <pubDate>Fri, 25 Oct 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[Do It Yourself Testing]]></description>
+            <content:encoded><![CDATA[<p>Do It Yourself Testing</p>
+<p>In today's blog entry I will be capturing the most important pieces in Chapter 9
+of Steven Krug's book revered design book "Don't Make Me Think". This chapter
+expands on the key component of the desing life cycle: user testing. However Krug offers
+a novel, cheaper, and more efficient approach to this practice through "Do It Yourself
+Testing".</p>
+<ol>
+<li>Time Spent For Each Round of Testing</li>
+</ol>
+<p>One morning per month, this factors in conducting the tests, debriefing, and narrowing
+down what fixes to tackle.</p>
+<ol start="2">
+<li>When do you test</li>
+</ol>
+<p>Throughout the development process rather than when the project is almost done.</p>
+<ol start="3">
+<li>Number of testing rounds</li>
+</ol>
+<p>One per month is all that is nessecary as it it becomes a monthly routine!</p>
+<ol start="4">
+<li>Number of participants</li>
+</ol>
+<p>3 is more than enough to capture the most vital details</p>
+<ol start="5">
+<li>How do you choose particpants</li>
+</ol>
+<p>It is okay to not have the most segmented population to test. The frequency matters
+more than the testers profile. It also is good to have prodcts as accessible as possible.</p>
+<ol start="6">
+<li>Where do you test</li>
+</ol>
+<p>On site or remote with observers in a seperate room using screen sharing to analyze.</p>
+<ol start="7">
+<li>Who should watch</li>
+</ol>
+<p>On site testing allows a wife variety of people working on the project to observe as well
+as making it half a day only.</p>
+<ol start="8">
+<li>Reporting</li>
+</ol>
+<p>1-2 page email is enough to capture the team's decisions during debriefing.</p>
+<ol start="9">
+<li>Who identifies issues?</li>
+</ol>
+<p>The development team should contribute to this role as well as key stakeholders who
+ideally could meet over lunch to compare and contrast observations.</p>
+<ol start="10">
+<li>Primary Purpose</li>
+</ol>
+<p>Identify most common and fatal issues and commit to cleaning those up by the next
+month for scheduled testing.</p>
+<ol start="11">
+<li>Costs</li>
+</ol>
+<p>A couple hundred dollars or less per round of testing!</p>]]></content:encoded>
+            <category>Tutorial</category>
+        </item>
+        <item>
+            <title><![CDATA[User Testing 101]]></title>
+            <link>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/user-testing-101</link>
+            <guid>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/user-testing-101</guid>
+            <pubDate>Fri, 25 Oct 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[User Testing 101]]></description>
+            <content:encoded><![CDATA[<p>User Testing 101</p>
+<p>"WHY"</p>
+<p>In chapter 5 of “Design of Everyday Things” Norman hones in on the devastation that poor design can create and as a result why it is key to be able to diagnose these problems before and as they come about. This leads to the word “why” and how this centers around this main issue Norman brings up. Root cause analysis is centered on the idea how determining what caused an error in someone’s actions. This is where the word “Why” comes into play as often when one wrong move is found the case is closed. This doesn’t account for the possibility of a butterfly effect of multiple decisions causing the issue and also emphasize the human error component to drastically. This is where the “Five Why’s” come into play. The 5 why’s is a Japanese concept developed by Sakichi Toyoda for the Toyota Production System division of the Toyota Motor Company. When searching for this root cause, keep asking “Why” and drill down as deep as possible to exhaust and flesh out the reason for a problematic behavior. The benefits and value of this method is the critical thinking facilitated in this process and pushing back against the tendency to stop finding potential errors once a human error is discovered. This has found mainstream use around a multitude of industries from business executives, UI designer, engineers and so much more.</p>]]></content:encoded>
+            <category>WordJournal</category>
+        </item>
         <item>
             <title><![CDATA[Mockups Reading]]></title>
             <link>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/mockups-reading-blog</link>
@@ -75,7 +149,9 @@ same style mockups through royalty free ui images and also making sure they are 
             <content:encoded><![CDATA[<p>Design System</p>
 <iframe style="border:1px solid rgba(0, 0, 0, 0.1)" width="800" height="450" src="https://embed.figma.com/design/UK9uUpAhDIBDZ92RVxjQA3/Final-Project-Design-System?node-id=0-1&amp;embed-host=share"></iframe>
 <p>Mockups</p>
-<iframe style="border:1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/jRVpSZsTvUqHXvoQ7sIYMx/Final-Project-Design-System-(Copy)?node-id=0-1&amp;embed-host=share"></iframe>]]></content:encoded>
+<iframe style="border:1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/jRVpSZsTvUqHXvoQ7sIYMx/Final-Project-Design-System-(Copy)?node-id=0-1&amp;embed-host=share"></iframe>
+<p>Protoype</p>
+<iframe style="border:1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/vMADeAuVf2QUHi2hdHYOT4/Final-Project-Design-System-(Copy)-(Copy)?node-id=37-2&amp;node-type=canvas&amp;scaling=min-zoom&amp;content-scaling=fixed&amp;page-id=0%3A1&amp;starting-point-node-id=37%3A2&amp;show-proto-sidebar=1&amp;embed-host=share"></iframe>]]></content:encoded>
             <category>FreeForm</category>
         </item>
         <item>
