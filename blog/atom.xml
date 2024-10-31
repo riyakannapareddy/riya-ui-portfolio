@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog</id>
     <title>My UI Portfolio Blog</title>
-    <updated>2024-10-25T14:30:00.000Z</updated>
+    <updated>2024-10-31T14:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog"/>
     <subtitle>My UI Portfolio Blog</subtitle>
     <icon>https://riyakannapareddy.github.io/riya-ui-portfolio/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Inclusive Design]]></title>
+        <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/inclusive-design-blog</id>
+        <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/inclusive-design-blog"/>
+        <updated>2024-10-31T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Inclusive Design Accessibility]]></summary>
+        <content type="html"><![CDATA[<p>Inclusive Design Accessibility</p>
+<p>"Accessibility is to UI/UX design as a ramp is to a sidewalk"</p>
+<p>One of the core arguments supporting the need for accesibility is that while it isn't just
+the moral thing to do, it also benefits and uplifts all users of the web. Innovations like
+closed captioning, larger text, readable and digestible pages, easy accesss to the main
+content of a webpage, etc. all serve to empower the user experience on the web. While they are
+primarily tabled with individuals from a range of disabilities, many people can benefit
+and use these options without a thought to make their web surfing more smooth. This ties into the
+analogy, as a lot of things we observe in our day to day that aim to help people with disabilities
+also create ease in the places they're implemented in. A sidewalk ramp is vital to those in wheelchairs
+and also serves as a net positive for those riding in a bike, parents with strollers, and even just those
+feeling a little tired after a long walk!</p>]]></content>
+        <category label="ApproximateAnalogy" term="ApproximateAnalogy"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[User Testing Blog]]></title>
         <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog/user-testing</id>
