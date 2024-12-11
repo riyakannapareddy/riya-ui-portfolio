@@ -99,54 +99,32 @@ of Steven Krug's book revered design book "Don't Make Me Think". This chapter
 expands on the key component of the desing life cycle: user testing. However Krug offers
 a novel, cheaper, and more efficient approach to this practice through "Do It Yourself
 Testing".</p>
-<ol>
-<li>Time Spent For Each Round of Testing</li>
-</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="time-spent-for-each-round-of-testing">Time Spent For Each Round of Testing<a class="hash-link" aria-label="Direct link to Time Spent For Each Round of Testing" title="Direct link to Time Spent For Each Round of Testing" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/user-testing#time-spent-for-each-round-of-testing">​</a></h2>
 <p>One morning per month, this factors in conducting the tests, debriefing, and narrowing
 down what fixes to tackle.</p>
-<ol start="2">
-<li>When do you test</li>
-</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="when-do-you-test">When do you test<a class="hash-link" aria-label="Direct link to When do you test" title="Direct link to When do you test" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/user-testing#when-do-you-test">​</a></h2>
 <p>Throughout the development process rather than when the project is almost done.</p>
-<ol start="3">
-<li>Number of testing rounds</li>
-</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="number-of-testing-rounds">Number of testing rounds<a class="hash-link" aria-label="Direct link to Number of testing rounds" title="Direct link to Number of testing rounds" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/user-testing#number-of-testing-rounds">​</a></h2>
 <p>One per month is all that is nessecary as it it becomes a monthly routine!</p>
-<ol start="4">
-<li>Number of participants</li>
-</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="number-of-participants">Number of participants<a class="hash-link" aria-label="Direct link to Number of participants" title="Direct link to Number of participants" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/user-testing#number-of-participants">​</a></h2>
 <p>3 is more than enough to capture the most vital details</p>
-<ol start="5">
-<li>How do you choose particpants</li>
-</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="how-do-you-choose-particpants">How do you choose particpants<a class="hash-link" aria-label="Direct link to How do you choose particpants" title="Direct link to How do you choose particpants" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/user-testing#how-do-you-choose-particpants">​</a></h2>
 <p>It is okay to not have the most segmented population to test. The frequency matters
 more than the testers profile. It also is good to have prodcts as accessible as possible.</p>
-<ol start="6">
-<li>Where do you test</li>
-</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="where-do-you-test">Where do you test<a class="hash-link" aria-label="Direct link to Where do you test" title="Direct link to Where do you test" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/user-testing#where-do-you-test">​</a></h2>
 <p>On site or remote with observers in a seperate room using screen sharing to analyze.</p>
-<ol start="7">
-<li>Who should watch</li>
-</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="who-should-watch">Who should watch<a class="hash-link" aria-label="Direct link to Who should watch" title="Direct link to Who should watch" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/user-testing#who-should-watch">​</a></h2>
 <p>On site testing allows a wife variety of people working on the project to observe as well
 as making it half a day only.</p>
-<ol start="8">
-<li>Reporting</li>
-</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="reporting">Reporting<a class="hash-link" aria-label="Direct link to Reporting" title="Direct link to Reporting" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/user-testing#reporting">​</a></h2>
 <p>1-2 page email is enough to capture the team's decisions during debriefing.</p>
-<ol start="9">
-<li>Who identifies issues?</li>
-</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="who-identifies-issues">Who identifies issues?<a class="hash-link" aria-label="Direct link to Who identifies issues?" title="Direct link to Who identifies issues?" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/user-testing#who-identifies-issues">​</a></h2>
 <p>The development team should contribute to this role as well as key stakeholders who
 ideally could meet over lunch to compare and contrast observations.</p>
-<ol start="10">
-<li>Primary Purpose</li>
-</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="primary-purpose">Primary Purpose<a class="hash-link" aria-label="Direct link to Primary Purpose" title="Direct link to Primary Purpose" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/user-testing#primary-purpose">​</a></h2>
 <p>Identify most common and fatal issues and commit to cleaning those up by the next
 month for scheduled testing.</p>
-<ol start="11">
-<li>Costs</li>
-</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="costs">Costs<a class="hash-link" aria-label="Direct link to Costs" title="Direct link to Costs" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/user-testing#costs">​</a></h2>
 <p>A couple hundred dollars or less per round of testing!</p>]]></content>
         <category label="Tutorial" term="Tutorial"/>
     </entry>
@@ -345,41 +323,41 @@ in our artistic process.</p>
         <link href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/color-harmony-excercise"/>
         <updated>2024-09-27T14:30:00.000Z</updated>
         <summary type="html"><![CDATA[Color Harmony UI Excercise]]></summary>
-        <content type="html"><![CDATA[<p>##Color Harmony UI Excercise</p>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="color-harmony-ui-excercise">Color Harmony UI Excercise<a class="hash-link" aria-label="Direct link to Color Harmony UI Excercise" title="Direct link to Color Harmony UI Excercise" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/color-harmony-excercise#color-harmony-ui-excercise">​</a></h2>
 <p>Today I will be embarking on a journey exploring different color harmonies impact on
 an interface. I thought what better interface to experiment with than the color puzzle game
 "I Love Hue"! I will first analyze and recreate the original palette of this interface and then spin up three different iterations of this interface with different harmonic color
 combinations.</p>
-<p>##Original Interface
-<img decoding="async" loading="lazy" alt="ilovehue original interface" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/ilovehue-og-fcd648927d5d55d5553ea8e9130b3ea0.png" width="850" height="1810" class="img_ev3q"></p>
-<p>##Recreation of Interface
-<img decoding="async" loading="lazy" alt="ilovehue recreated interface" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/ilovehue-recreation-2a89106366046b4d15afcd7479748280.png" width="850" height="1810" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="original-interface">Original Interface<a class="hash-link" aria-label="Direct link to Original Interface" title="Direct link to Original Interface" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/color-harmony-excercise#original-interface">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="ilovehue original interface" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/ilovehue-og-fcd648927d5d55d5553ea8e9130b3ea0.png" width="850" height="1810" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="recreation-of-interface">Recreation of Interface<a class="hash-link" aria-label="Direct link to Recreation of Interface" title="Direct link to Recreation of Interface" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/color-harmony-excercise#recreation-of-interface">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="ilovehue recreated interface" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/ilovehue-recreation-2a89106366046b4d15afcd7479748280.png" width="850" height="1810" class="img_ev3q"></p>
 <p>The original color scheme of the I love hue interface fits into the triad harmony, these
 being the primary colors of yellow, red, and blue. This color scheme exemplifies simplicity and harmony. I think this was a very intelligent choice from the designers as primary colors
 are the foundation of the game which tests users eye for colors and how each hue fits together.  As this is a relaxing low stakes puzzle game I think these muted colors work very well to not excite the mind too much and allow the player to relax and focus on the colors of the puzzle to solve.</p>
-<p>##Achromatic Interface
-<img decoding="async" loading="lazy" alt="ilovehue achromatic interface" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/ilovehue-achromatic-bea6166fe4aabf9fa9885aeb4f569d56.png" width="850" height="1810" class="img_ev3q">
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="achromatic-interface">Achromatic Interface<a class="hash-link" aria-label="Direct link to Achromatic Interface" title="Direct link to Achromatic Interface" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/color-harmony-excercise#achromatic-interface">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="ilovehue achromatic interface" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/ilovehue-achromatic-bea6166fe4aabf9fa9885aeb4f569d56.png" width="850" height="1810" class="img_ev3q">
 The first color scheme I tried my hand at was an achromatic color scheme using
 black and white and all the shades in between those colors. This was my favorite new
 iteration by far. It stays true to the values of simplicity and ease on the mind.This sleek,
 simple palette allows for the colors of the puzzle to truly shine and be the main focus of
 the game. This also thematically fits well into the game similar to their primary triad
 harmony.</p>
-<p>##Anagolous Interface
-<img decoding="async" loading="lazy" alt="ilovehue anagolous interface" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/ilovehue-anagolous-f15b8e261cadfe4c83a177c309d62096.png" width="850" height="1810" class="img_ev3q">
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="anagolous-interface">Anagolous Interface<a class="hash-link" aria-label="Direct link to Anagolous Interface" title="Direct link to Anagolous Interface" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/color-harmony-excercise#anagolous-interface">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="ilovehue anagolous interface" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/ilovehue-anagolous-f15b8e261cadfe4c83a177c309d62096.png" width="850" height="1810" class="img_ev3q">
 The next color harmony I tried was an analogous color palette. I used blue, blue green and
 blue violet. I choose to use a blue analogous palette as blue evokes feeling of peace and
 relaxation which fits the purpose of the game. I think this palette is very soothing to the
 eye and mind, however it has more potential to clash based on the colors of the puzzle. I think the fact certain color puzzles will stand out and pop far more than others is a detriment to this design.</p>
-<p>##Square Interface
-<img decoding="async" loading="lazy" alt="ilovehue square interface" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/ilovehue-square-6d5091605dfc8310d62b652dbe5d2664.png" width="850" height="1836" class="img_ev3q">
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="square-interface">Square Interface<a class="hash-link" aria-label="Direct link to Square Interface" title="Direct link to Square Interface" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/color-harmony-excercise#square-interface">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="ilovehue square interface" src="https://riyakannapareddy.github.io/riya-ui-portfolio/assets/images/ilovehue-square-6d5091605dfc8310d62b652dbe5d2664.png" width="850" height="1836" class="img_ev3q">
 The last color harmony I tried out is a square color harmony. I used red, green, purple
 and yellow. I wasn't the biggest fan of this palette as it gave it a more childish, chaotic
 look compared to the other choices. I think this would also clash with the palettes of
 the puzzles potentially. I think this gives the energy of a more fast paced, energetic game
 rather than the slow, meticilous process i love hue creates.</p>
-<p>##Final Thoughts
-Overall I think the original color scheme was the most effective for this game. It
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="final-thoughts">Final Thoughts<a class="hash-link" aria-label="Direct link to Final Thoughts" title="Direct link to Final Thoughts" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog/color-harmony-excercise#final-thoughts">​</a></h2>
+<p>Overall I think the original color scheme was the most effective for this game. It
 was very purposeful and truly lives up to the name of the game by incorporating
 all the primary colors. The point of the game is to get lost in the world of color
 and relax and the triad harmony is a wonderful vessel to present this. The achromatic
