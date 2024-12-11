@@ -3,8 +3,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My UI Portfolio",
-  tagline: "Showcasing My Work and Thoughts",
+  title: "Riya Kannapareddy's UI Portfolio",
+  tagline: "A unified source for my creative exploration in the field of UI/UX",
   favicon: "img/favicon.ico",
 
   url: "https://riyakannapareddy.github.io/", // Replace with your actual domain
@@ -28,7 +28,7 @@ const config = {
       ({
         docs: false, // Disable docs if not needed
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           // Add any additional blog configuration if needed
         },
         theme: {
@@ -43,7 +43,7 @@ const config = {
     ({
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "My UI Portfolio",
+        title: "Riya Kannapareddy",
         logo: {
           alt: "My UI Portfolio Logo",
           src: "img/logo.svg",

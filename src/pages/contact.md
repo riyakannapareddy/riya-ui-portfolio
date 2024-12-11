@@ -4,7 +4,7 @@ description: Get in touch with us
 permalink: /contact
 ---
 
-# Contact Us
+## Contact Us
 
 I would love to hear from you!
 
