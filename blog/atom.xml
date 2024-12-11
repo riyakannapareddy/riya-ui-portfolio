@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://riyakannapareddy.github.io/riya-ui-portfolio/blog</id>
-    <title>Riya Kannapareddy UI/UX Portfolio Blog</title>
+    <title>Riya Kannapareddy UI Portfolio Blog</title>
     <updated>2024-12-02T14:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://riyakannapareddy.github.io/riya-ui-portfolio/blog"/>
-    <subtitle>Riya Kannapareddy UI/UX Portfolio Blog</subtitle>
+    <subtitle>Riya Kannapareddy UI Portfolio Blog</subtitle>
     <icon>https://riyakannapareddy.github.io/riya-ui-portfolio/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Design Evolution Narrative Draft]]></title>
