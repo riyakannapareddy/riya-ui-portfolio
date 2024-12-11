@@ -7,4 +7,6 @@ slug: /about-me
 
 Welcome to my portfolio! Here, you can find information about my skills, experience, and background.
 
-<!-- Add more content about yourself -->
+**My Resume:**
+
+[View my resume](../../docs/assets/resume.pdf)
